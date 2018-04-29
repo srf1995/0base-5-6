@@ -1,0 +1,13 @@
+#t1 tr td:nth-child(1){
+	width:100px;
+}
+#t1 tr td:nth-child(2){
+	width:100px;
+}
+#t2 tr td:nth-child(1){
+	width:180px;
+}
+#t2 tr td:nth-child(2){
+	width:240px;
+}
+
