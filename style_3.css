@@ -6,19 +6,18 @@ body{
 	width:100%;
 	height:100%;
 }
-.box0{
-	padding-left:20px;
-	width:100%;
-	line-height:60px;
-	background-color:#9c9c9c;  
-}
-
 h1{
 	font-size:110%;
 	color:#fff;
 }
 h2{
 	font-size:110%;
+}
+.box0{
+	padding-left:20px;
+	width:100%;
+	line-height:60px;
+	background-color:#9c9c9c;  
 }
 .box1,.box2,.box3,.box4,.box5{
 	float:left;
